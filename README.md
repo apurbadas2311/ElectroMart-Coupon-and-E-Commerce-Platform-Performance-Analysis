@@ -1,4 +1,4 @@
-ElectroMart Coupon and E-Commerce Platform Performance Analysis
+# ElectroMart Coupon and E-Commerce Platform Performance Analysis
 
 This repository contains the data, analysis, and dashboard for the ElectroMart coupon and e-commerce platform performance evaluation. The goal of this analysis was to determine the true 
 Cost Per Unit (CPU) for various coupon codes and e-commerce platforms to identify the most and least effective channels for digital marketing investment.
