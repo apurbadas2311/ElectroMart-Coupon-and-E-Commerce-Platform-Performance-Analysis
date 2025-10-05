@@ -7,12 +7,19 @@ The analysis provides actionable insights for management to optimize future mark
 Key Findings & Features
 
 The analysis successfully identified the best and worst performers across both coupon codes and e-commerce platforms based on the Cost Per Unit (CPU) metric.
+
 •	Best Coupon Code: DIWALI-ARL-20 with a CPU of 14.47.
+
 •	Worst Coupon Code: REPUBLIC-PTM-10 with a CPU of 26.67.
+
 •	Best Platform: Blinkit, with the lowest CPU of 14.67 (or 15 mentioned in the insight).
+
 •	Worst Platform: Amazon, with the highest CPU of 25.
+
 •	Total Units Sold: The campaign achieved 47,000 units sold across all channels.
+
 •	Data Visualization: Includes a dashboard for visual comparison of Coupon Code-wise CPU, E-commerce Platform-wise CPU, and Total Units Sold breakdowns.
+
 📈 Campaign Overview
 
 Metric	                         Value
@@ -27,9 +34,13 @@ ________________________________________
 🛠️ Data & Technology Stack
 
 This project is primarily a data analysis and reporting effort.
+
 •	Core Technology: Google Sheets / Spreadsheet (where the analysis, calculations, and dashboard were performed).
+
 •	Data Inputs: Coupon-Platform raw transaction data including Coupon ID, Platform Spend (in Rs.), and Units Sold.
+
 •	Key Metric: Cost Per Unit (CPU).
+
 •	Deployment/Hosting: Spreadsheet/PDF Report (for sharing of findings)
 
 The project details you provided are a business performance analysis in the form of a spreadsheet/dashboard, not a software application.
@@ -47,10 +58,11 @@ Prerequisites
 
 A marketing manager reviews the 
 E-Commerce Platform Performance section of the dashboard:
-1.	They observe that 
-Amazon has the highest CPU (25).
-2.	They observe that 
-Blinkit has the lowest CPU (14.67).
+
+1.	They observe that Amazon has the highest CPU (25).
+
+2.	They observe that Blinkit has the lowest CPU (14.67).
+
 3.	Action: The manager decides to reduce budget allocation to Amazon and increase budget allocation to Blinkit for the next campaign to lower the overall Cost Per Unit.
 
 ![image_alt](https://github.com/apurbadas2311/ElectroMart-Coupon-and-E-Commerce-Platform-Performance-Analysis/blob/main/Code%20Coupon%20Overview%20(ElectroMart).png)
