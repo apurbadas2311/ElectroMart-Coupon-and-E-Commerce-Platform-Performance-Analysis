@@ -52,3 +52,5 @@ Amazon has the highest CPU (25).
 2.	They observe that 
 Blinkit has the lowest CPU (14.67).
 3.	Action: The manager decides to reduce budget allocation to Amazon and increase budget allocation to Blinkit for the next campaign to lower the overall Cost Per Unit.
+
+![image_alt](https://github.com/apurbadas2311/ElectroMart-Coupon-and-E-Commerce-Platform-Performance-Analysis/blob/main/Code%20Coupon%20Overview%20(ElectroMart).png)
